@@ -1,0 +1,16 @@
+First of all I downloaded the latest .iso with Ubuntu on it
+and made my USB stick bootable with the .iso on it.
+Went to the BIOS, changed boot order, and it booted the content
+on the USB. 
+Launched Ubuntu in compatibility mode because of some technical
+errors, but still managed to install normal version of Ubuntu 
+and made sure to check the box to install drivers as well.
+After Ubuntu was installed, I booted it and installed zsh 
+and oh-my-zsh and made it default.
+Created the helloworld.c file using terminal and made all 
+changes through terminal.
+Created Makefile through terminal that makes helloworld executable.
+Initiated a git repo and added all files to it.
+Made a commit and pushed changes in github through token.
+Now created README through terminal and editing it in nano as well.
+I'm going to upload screenshots and this readme to git.
